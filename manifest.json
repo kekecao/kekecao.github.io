@@ -1,14 +1,14 @@
 {
-  "name": "April",
-  "short_name": "April",
+  "name": "可可",
+  "short_name": "可可",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "April的个人主页",
+  "description": "可可的个人主页",
   "theme_color": "pink",
   "icons": [
     {
-      "src": "./photo.jpeg",
+      "src": "./photo.jpg",
       "sizes": "144x144",
       "type": "image/png"
     }
